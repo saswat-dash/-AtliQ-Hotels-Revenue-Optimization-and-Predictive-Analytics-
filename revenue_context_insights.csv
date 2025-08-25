@@ -1,0 +1,9 @@
+Category,Value,Source
+Room Class Pricing Hierarchy,RT1 < RT2 < RT3 < RT4,Data snippet analysis
+Standard Room Sample Rate,"$9,100 per booking",fact_bookings.csv sample
+Presidential Room Sample Rate,"$26,600 per booking",fact_bookings.csv sample
+Price Ratio (Presidential vs Standard),2.9x premium pricing,Calculated from samples
+Cancellation Revenue Retention,40% retained (0.4 ratio),Platform analysis
+Successful Booking Revenue Realization,100% realized (1.0 ratio),Platform analysis
+Platform Cancellation Policy Consistency,Uniform across platforms,Multi-platform validation
+Revenue Protection Effectiveness,Strong policy implementation,Policy effectiveness assessment

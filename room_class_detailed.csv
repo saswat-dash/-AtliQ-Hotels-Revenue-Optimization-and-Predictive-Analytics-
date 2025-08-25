@@ -1,0 +1,5 @@
+room_class,occupancy_rate,successful_bookings,capacity,revenue_tier,sample_rate_observed,strategic_focus
+Presidential,59.22,16073,27140,Premium,26600,Capacity Expansion
+Standard,57.88,38446,66424,Volume,9100,Volume Optimization
+Elite,57.61,49505,85928,Mid-Tier,Not Available,Positioning Clarity
+Premium,57.58,30566,53084,Mid-Tier,Not Available,Value Proposition
